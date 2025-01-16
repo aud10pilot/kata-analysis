@@ -1,3 +1,5 @@
+![Kata Pose Detection](/static/images/miyagi.gif)
+
 # Karate Pose Analysis
 
 A web application that analyzes karate kata videos using pose detection. The application processes videos to:
